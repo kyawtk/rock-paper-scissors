@@ -1,1 +1,1 @@
-#infinite rock paper scissors game
+# infinite rock paper scissors game
