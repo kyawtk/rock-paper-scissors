@@ -1,1 +1,1 @@
-# kyawtk.github.io
+#infinite rock paper scissors game
